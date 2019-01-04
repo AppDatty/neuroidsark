@@ -1,0 +1,39 @@
+\\\MOD LIST\\\ (22)
+Rehud - 1139371102
+Castles, Keeps, and Forts - 764755314
+Structures Plus - 731604991
+Unlock Haircuts and Emotes - 942185438
+Craftable Element - 859198322
+DLC & TEK Engram Unlocker - 1564797592
+Additional Emotes - 1551907938
+The Tombstone - 1139981401
+Bandana Skins - 827913491
+Utilities Plus - 899250777
+	[UtilsPlus]
+	DisableFogRemover=True
+
+Blessing of Unicorns - 1526243940
+Personal Waypoints - 1493938516
+ZeroGSpeedGlider - 1383175081
+	[SpeedGliderMod]
+	ElementBooster=True
+	BoostsPerElement=10
+Tranquilizer Hunting Rifle - 1448118781
+	[TranquilizerHuntingRifle]
+	InstantTorporAmount=350
+	TorporAmountOver5Seconds=200
+	TranqWildDinos=True
+	TranqTamedDinos=False
+	TranqPlayers=False
+Beacon Enhancer - 609425335
+Upgrade Station - 821530042
+Spoilers - 1230672785
+100k Configurable Stack Mod - 1211038707
+Classic Flyers - 895711211
+Homing Pigeon - 655261420
+Additional Lighting - 1380777369
+Dino Stat Reset Potion- 835065275
+
+\\\MOD ORDER\\\
+>TheIsland<
+1139371102,764755314,731604991,942185438,859198322,1564797592,1551907938,1139981401,827913491,899250777,1526243940,1493938516,1383175081,1448118781,609425335,821530042,1230672785,1211038707,895711211,655261420,1380777369,835065275
