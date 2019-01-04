@@ -194,8 +194,23 @@ Jan. 1
 ***Any Tek learned from (TheIsland) remains learned unless you use a mindwipe tonic.
 **Updated mod-pack. #mod-list
 ```
+@here
 
-
+```diff
+Jan. 4
+>Server Changes<
+	- Ragnarok > 24 to 20 mods
+	- Increased level cap (Dino & Player)
+	
+ * To initiate the new leveling system, you will need to grind a small amount of exp until you level up
+ 
+>Mod Changes<
+- Beacon Enhancer (Ragnarok)
+- Unlock Haircuts and Emotes (Ragnarok)
+- Spoilers (Ragnarok)
+- Bandana Skins (Ragnarok)
+```
+@here
 
 \\\MOD DESCRIPTIONS\\\
 
@@ -206,7 +221,7 @@ Jan. 1
 - Utilities+
     + Makes the Bola, Flaregun, Grappling Hook, Parachute, and Spear reusable.
     
-- Beacon Enhancer
+- Beacon Enhancer (ScorchedEarth & TheIsland)
     + Buffs beacon drops.
     
 - Structures Plus
@@ -215,19 +230,19 @@ Jan. 1
 - 100k Configurable Stack Mod
     + Increases stacking of items into larger quantities as well reduces weight.
     
-- Unlock Haircuts and Emotes
+- Unlock Haircuts and Emotes (ScorchedEarth & TheIsland)
     + Allows you to instantly unlock new haircuts and emotes rather going and searching for them.
     
 - Upgrade Station
     + This allows you to easily upgrade weapons/armor with ease.
     
-- Spoilers
+- Spoilers (ScorchedEarth & TheIsland)
     +Instantly spoils meat and wood.
     
 - The Tombstone
     + This is a death recovery mod that allows your inventory to tie to you if you die.
     
-- Bandana Skins
+- Bandana Skins (ScorchedEarth & TheIsland)
     + Adds cosmetics for the head slot.
     
 - Additional Emotes (ScorchedEarth & TheIsland)
