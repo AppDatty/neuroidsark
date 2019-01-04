@@ -1,0 +1,304 @@
+***FOR DISCORD***
+
+\\\ANNOUNCEMENTS\\\
+Nov. 25 2018
+
+Hey guys, welcome to your new category for anything related to ARK : Survival Evolved. Wether the player count grows or stays the same, this will be your home for ARK outside of the game.
+I will provide announcements for anything new. Such as mod descriptions, sudden server outages, or something as small as suggestions. This channel will allow you to leave reactions. If you have any concerns leave a message via #lobby~1.
+In addition to the #ark-announcements, we have #ark-changelog. I will also be providing a changelog of what goes into the or out of the server via mods. If there is also any major changes, it will also be placed in that channel.
+Feel free to use #media~1 to show off your cool builds, dinos, and human!
+
+@here @ARK Member @ARK Admin 
+
+\\\PATCH NOTES\\\
+
+```diff
+Nov. 23
++ Ark : Survival Evolved server created.
++ First run basic testing. (Map : TheIsland)
++ Switched maps to Scorched Earth.
++ Test trial on new mods.
++ Added mod Rehud.
++ Added mod Better Reusables.
++ Added mod Beacon Enhancer.
++ Added mod Structures Plus.
++ Added mod 100k Configurable Stack Mod.
+```
+@here
+
+```diff
+Nov. 24
++ Added mod Unlock Haircuts and Emotes.
++ Added mod Upgrade Station.
++ Added mod Spoilers.
++ Added mod The Tombstone.
++ Added mod Bandana Skins.
+```
+@here
+
+```diff
+Nov. 25
++ Added mod Additional Emotes.
++ Added mod Additional Lighting.
++ Added mod Classic Flyers.
++ Added mod Homing Pigeon.
+```
+@here
+
+```diff
+Nov. 25
++ Added mod Castles, Keeps, and Forts
+	**Outdated but should still work without drawbridge. (Test Phase)
+```
+@here
+
+```diff
+Dec. 2
+>Mod Additions<
++ Added mod Blissful Unicorns
+	*Please note this is in beta*
+	
++ Added mod Tranq. Hunting Rifle
+
+>Server Changes<
++ Increased Mating Interval multiplier 1.0 > 1.75
++ Increased Egg Hatch speed multiplier 1.0 > 2.5
++ Increased Baby Mature speed multiplier 1.0 > 1.5
++ Increased Poop Interval multiplier 1.0 > 0.8
++ Doubled Player & Dino levels (Successfully, hopefully)
+- Decreased Baby Food Consumption > 1.0 > 0.8
+```
+@here
+
+```diff
+Dec. 3
+>Mod Additions<
++ Added mod Waypoints
++ Added mod ZeroGSpeedGlider
++ Added mod TekBench
+
+>Server Changes<
+- Decreased Poop Interval 0.8 > 0.9
+```
+@here
+
+```diff
+Dec. 6
+>Server Additions<
++ An actual server
+
+>Server Changes<
++ Another Map (TheIsland)
+```
+@here
+
+```diff
+Dec. 9
+>Server Changes<
++ Changed server name
+
+>Mod Additions/Changes<
++ Utilities+ (More Up-To-Date +Flaregun however -Boomerang)
++ Corrupted Dino Skins
+
+- Better Reusables
+
+>Discord Changes<
++ #mod-list channel (read only)
++ #server-status channel (read only)
+```
+@here
+
+```diff
+Dec. 13
+>Server Changes<
++ Added Auto-Update to mods on restart
+
+>Mod Additions/Changes<
++ DLC & TEK Engram Unlocker
++ Craftable Element
+
+- Corrupted Dino Skins
+- TekBench
+```
+@here
+
+```diff
+Dec. 16
+>Server Changes<
++ Increased taming configurations. This should fix the long exhausting taming that's been happening
++ Increased level cap (Was suppose to be to 200 but still under testing)
++ Increased night time cycle
++ Christmas Present #1 (You'll have to discover this on your own)
++ Adjusted various character and dino tweaks.
+```
+@here
+
+```diff
+Dec. 18
+>Server Changes<
++ Added automatic World Save
++ Added automatic daily restarts (1:00 UTC)
+```
+@here
+
+```diff
+Dec. 21
+>Mod Changes<
+- Removed DLC & Tek Engram Unlocker (ScorchedEarth)
+- Removed Craftable Element (ScorchedEarth)
+```
+@here
+
+```diff
+Dec. 24
+>Mod Changes<
++ Dino Stat Reset Potion
+```
+@here
+
+```diff
+Dec. 31
+>Server Changes<
+~ Mod changes per server
+
+>Cluster Changes<
++ An Actual Server  .. wait, that can't be right. Did I get carried away?
+
+>Mod Changes<
++ eco's Stable Structures and Decor
++ eco's RP Decor
++ eco's Tek Decor
++ eco's Terrariums
++ eco's Garden Decor
+
+***You'll notice there's been mod changes per server. This is mainly tied to 'structure' based mods. Everyone has their more favored map so in order to not overload every server as well keeping each map its own, certain 'structure' mods will be unavailable. Please visit #mod-list.
+```
+@here
+
+```diff
+Jan. 1
+>Server<
+ * Neuroids - Ragnarok
+	- 26 to 24 mods
+
+>Mods Changes<
++ eco's Camping Decor
++ ecoTrees
+
+- Additional Lighting
+- Additional Emotes
+- DLC & Tek Engram Unlocker
+- Craftable Element
+
+***Any Tek learned from (TheIsland) remains learned unless you use a mindwipe tonic.
+**Updated mod-pack. #mod-list
+```
+
+
+
+\\\MOD DESCRIPTIONS\\\
+
+```diff
+- Rehud
+    + HUD reskin.
+    
+- Utilities+
+    + Makes the Bola, Flaregun, Grappling Hook, Parachute, and Spear reusable.
+    
+- Beacon Enhancer
+    + Buffs beacon drops.
+    
+- Structures Plus
+    + This mod allows a new revamped building experience as well as locking and pin-locking.
+    
+- 100k Configurable Stack Mod
+    + Increases stacking of items into larger quantities as well reduces weight.
+    
+- Unlock Haircuts and Emotes
+    + Allows you to instantly unlock new haircuts and emotes rather going and searching for them.
+    
+- Upgrade Station
+    + This allows you to easily upgrade weapons/armor with ease.
+    
+- Spoilers
+    +Instantly spoils meat and wood.
+    
+- The Tombstone
+    + This is a death recovery mod that allows your inventory to tie to you if you die.
+    
+- Bandana Skins
+    + Adds cosmetics for the head slot.
+    
+- Additional Emotes (ScorchedEarth & TheIsland)
+    + Adds more emotes to the game.
+    
+- Additional Lighting (ScorchedEarth & TheIsland)
+    + Adds more lighting to the game.
+    
+- Classic Flyers
+    + This changes flyers to their pre-nerf phase.
+    
+- Homing Pigeon
+    + If you die while with a flyer, you can equip a leg ring to your flyer, allowing it to return to the closest tribe flag.
+    
+- Castles, Keeps, and Forts (TheIsland)
+    + Adds more medieval based structure building.
+
+- Blissful Unicorns
+    + Adds different elemental unicorns.
+    
+- Tranq. Hunting Rifle
+    + Adds a more powerful tranq. rifle to the game.
+
+- Personal Waypoints
+    + Allows waypoints.
+    
+- ZeroGSpeedGlider
+    + Allows the use of a glider.
+
+- Dino Stat Reset Potion
+    + Mindewipe for your tamed dino levels.
+
+- DLC & Tek Engram Unlocker (TheIsland)
+    + Allows the engrams from other DLCs and Tek to be learned.
+    
+- Craftable Element (TheIsland)
+    + Allows the ability to craft element.
+```
+
+```diff
+- eco's Stable Structures and Decor (Ragnarok)
+	+ Adds vast amounts of rustic structures to create.
+	
+- eco's RP Decor (Ragnarok)
+	+ Adds additional decor for your structures.
+	
+- eco's Tek Decor (Ragnarok)
+	+ Adds tek-based decor.
+	
+- eco's Terrariums (Ragnarok)
+	+ Ability to craft Terrariums, Aquariums, and Habitats that are aniamted.
+	
+- eco's Garden Decor (Ragnarok)
+	+ Spice up your outside life.
+	
+- eco's Camping Decor (Ragnarok)
+	+ Adds various unique camping decor.
+	
+- ecoTrees (Ragnarok)
+	If your build is feeling dull, landscape.
+```
+`**Mod List**`
+https://steamcommunity.com/sharedfiles/filedetails/?id=1609168294
+
+**Highly recommended you subscribe to all the mods from the link, then launch your game to install the mods before joining any of our servers.**
+@here
+
+
+\\\SERVER COSTS\\\
+Neuroids - ScorchedEarth = $12.69
+Neuroids - TheIsland = $12.69
+Neuroids - Ragnarok = $12.69
+
+Total = $38.07
