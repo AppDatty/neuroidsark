@@ -213,10 +213,14 @@ Jan. 4
 @here
 
 ```diff
-Jan. 9
->Server Changes<
-+ Automatic Server Restarts
-+ Automatic World Backups
+Jan. 12
+>Mod Changes<
+*** All Servers
+~ PersonalWaypoints limited to 15
+
+- Spoilers
+- Bandana Skins
+- ZeroGSpeedGlider
 ```
 @here
 
@@ -244,14 +248,8 @@ Jan. 9
 - Upgrade Station
     + This allows you to easily upgrade weapons/armor with ease.
     
-- Spoilers (ScorchedEarth & TheIsland)
-    +Instantly spoils meat and wood.
-    
 - The Tombstone
     + This is a death recovery mod that allows your inventory to tie to you if you die.
-    
-- Bandana Skins (ScorchedEarth & TheIsland)
-    + Adds cosmetics for the head slot.
     
 - Additional Emotes (ScorchedEarth & TheIsland)
     + Adds more emotes to the game.
@@ -277,9 +275,6 @@ Jan. 9
 - Personal Waypoints
     + Allows waypoints.
     
-- ZeroGSpeedGlider
-    + Allows the use of a glider.
-
 - Dino Stat Reset Potion
     + Mindewipe for your tamed dino levels.
 
